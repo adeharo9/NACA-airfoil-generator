@@ -1,6 +1,6 @@
 #NACA Airfoil Generator
 =
-**NACA Airfoil Generator of NACA 4 Digit Series, 5 Digit Series and 6 Series**
+**NACA Airfoil Generator of NACA 4 Digit Series, 5 Digit Series and 6 Series** made with **MATLAB 2012b** for **MATLAB**
 
 This function generates a set of points containing the coordinates of a NACA airfoil from the **NACA 4 Digit Series, NACA 5 Digit Series and NACA 6 Series** given its number and, as additional features, the chord, the number of points to be calculated, spacing type (between linear and cosine spacing), opened or closed trailing edge and the angle of attack of the airfoil.  
 It also plots the airfoil for further comprovation if it is the required one by the user.
