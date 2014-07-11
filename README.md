@@ -25,8 +25,8 @@ It also plots the airfoil for further comprovation if it is the required one by 
 	y_i --> Intrados y coordinate of airfoil vector (m)
 
 ##Bibliography
-1. Ladson, Charles L.; and Brooks, Cuyler W., Jr.: Development of a Computer Program To Obtain Ordinates for NACA 6- and 6A-Series Airfoils. NASA TM X-3069, 1974.
-2. Ladson, Charles L.; and Brooks, Cuyler W., Jr.: Development of a Computer Program To Obtain Ordinates for NACA 4-Digit, 4-Digit Modified, 5-Digit, and 16-Series Airfoils. NASA TM-3284, 1975.
-3. Ladson, Charles L.; Brooks, Cuyler W., Jr.; and Hill, Acquilla S.: Computer Program To Obtain Ordinates for NACA Airfoils. NASA TM X-4741, 1996.
-4. Abbott, Ira H.; and Von Doenhoff, Albert E.: Theory of Wing Sections. Dover Publ., Inc., 1959.
-5. Abbott, Ira H.; Von Doenhoff, Albert E.; and Stivers, Louis S., Jr.: Summary of Airfoil Data. NACA Rep. 824, 1945.
+1. Ladson, Charles L.; and Brooks, Cuyler W., Jr.: *Development of a Computer Program To Obtain Ordinates for NACA 6- and 6A-Series Airfoils*. NASA TM X-3069, 1974.
+2. Ladson, Charles L.; and Brooks, Cuyler W., Jr.: *Development of a Computer Program To Obtain Ordinates for NACA 4-Digit, 4-Digit Modified, 5-Digit, and 16-Series Airfoils*. NASA TM-3284, 1975.
+3. Ladson, Charles L.; Brooks, Cuyler W., Jr.; and Hill, Acquilla S.: *Computer Program To Obtain Ordinates for NACA Airfoils*. NASA TM X-4741, 1996.
+4. Abbott, Ira H.; and Von Doenhoff, Albert E.: *Theory of Wing Sections*. Dover Publ., Inc., 1959.
+5. Abbott, Ira H.; Von Doenhoff, Albert E.; and Stivers, Louis S., Jr.: *Summary of Airfoil Data*. NACA Rep. 824, 1945.
